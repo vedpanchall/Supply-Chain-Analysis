@@ -21,9 +21,11 @@ Key Metrics Displayed
 -> Stock Out Count: 1
 
 Insights 
+
 ✔ 1. Which customer segment buys the most?
 
 -> Based on the “Products Sold by Location” chart:
+
 Kolkata customers buy the most, followed by Delhi and Mumbai.
 Skincare contributes heavily to this high demand.
 
@@ -37,6 +39,7 @@ Haircare ranks second; Cosmetics perform the lowest.
 -> From the “Average Lead & Shipping Time” chart:
 
 Lead Times (15–17 days) are much higher than Shipping Times (5–6 days).
+
 This indicates supplier delays or production delays, not shipping issues.
 
 ✔ 4. Which location has the highest costs?
